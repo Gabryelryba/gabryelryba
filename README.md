@@ -1,6 +1,7 @@
 ### Hi there 👋
-<p>I'm Gabryel, a fullstack developer currently studying at <a href="https://github.com/betrybe" target="_blank">Trybe</a></p>
+<p>I'm <a href="https://www.linkedin.com/in/gabryelryba/" target="_blank">Gabryel</a>, a fullstack developer currently studying at <a href="https://github.com/betrybe" target="_blank">Trybe</a>.</p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabryelryba)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Gabryelryba/gabryelryba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
