@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I'm Gabryel, a fullstack developer currently studying at </p> <a src="https://github.com/betrybe" target="_blank"> Trybe </a>.
+<p>I'm Gabryel, a fullstack developer currently studying at</p> <a src="https://github.com/betrybe" target="_blank">Trybe</a>.
 
 <!--
 **Gabryelryba/gabryelryba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
