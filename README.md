@@ -2,7 +2,7 @@
 <p>I'm <a href="https://www.linkedin.com/in/gabryelryba/" target="_blank">Gabryel</a>, a fullstack developer currently studying at <a href="https://github.com/betrybe" target="_blank">Trybe</a>.</p>
 
 ## I really like to code with:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code></br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux"></code>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabryelryba)](https://github.com/anuraghazra/github-readme-stats)
