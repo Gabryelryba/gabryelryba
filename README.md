@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 <p>I'm <a href="https://www.linkedin.com/in/gabryelryba/" target="_blank">Gabryel</a>, a fullstack developer currently studying at <a href="https://github.com/betrybe" target="_blank">Trybe</a>.</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabryelryba)](https://github.com/anuraghazra/github-readme-stats)
